@@ -1,32 +1,4 @@
-// Homework
-// 1. Print the pattern
-// 1
-// 2 3
-// 4 5 6
-// 7 8 9 10
-
-// 2. Print the pattern
-// A
-// B B
-// C C C
-// D D D D
-
-// 2. Print the pattern
-// A
-// A B
-// A B C
-// A B C D
-
-// 4. Find the output
-#include <iostream>
-using namespace std;
-int main()
-{
-    for (int i = 0; i < 5; i++)
-    {
-        for (int j = i; j <= 5; j++)
-        {
-            cout << i << " " << j << endl;
-        }
-    }
-}
+// HOMEWORK QUESTIONS
+// 1. Write a function to check a number is a prime number or not [based on user input]
+// 2. Write a function to print fibonacci series from 1 to n and n will be done input from the user
+// 3. Write a switch case for months in a year with your study plans in that month in a nested switch
