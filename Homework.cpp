@@ -1,4 +1,10 @@
 // HOMEWORK QUESTIONS
-// 1. [Do Again] Write a switch case for months in a year with your study plans in that month in a nested switch
-// 2. Use Linear Search to search a element given by the user from the character array using a function which will print the output
-// 3. WAP to reverse a array
+// 1. Print a pattern
+//              1
+//          1   2   1
+//       1  2   3   2  1
+//    1  2  3  4   3  2  1
+
+// 2. Given an array of integers return true if the numbers of the occurrences of each value in the array is unique or false
+// 3. Two arrays are given write a function to check same elements are present in two arrays or not.
+// 4. Do a XOR operation on the array which contains all same elements but one unique element.
