@@ -1,3 +1,4 @@
 // HOMEWORK QUESTIONS
-// 1. Swap Alternative Numbers present inside the array using functions
-// 2. Find the second largest element and second smallest element in the array and also use functions
+// 1. Repeat the Jan 5 Question No. 2
+// 2. WAP to print Matrix and while printing subtract 2 from each element if it is greater than 5
+// 3. Use Bubble Sort to sort given array and print the sum of first, second and third largest number present inside the array
