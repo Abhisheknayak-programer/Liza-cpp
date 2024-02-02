@@ -1,4 +1,3 @@
 // HOMEWORK QUESTIONS
-// 1. User will give you input for length, height and width of a rectangle you need to find area, perimeter and volume of the rectangle block.
-// 2. Write a program to sort the given array in asc and desc and print the array
-// 3. Write a program to count the odd and even numbers present inside the matrix and if that odd or even number is a prime number then print the prime number with some text.
+// 1. A unsorted array is given to you. you need to make it sorted using bubble sort and then search a target element present inside the array which will return the index of the target element. NOTE : To search the element use Binary Search for O(logn) Time complexity.
+// 2. A array i.e, {1,1,2,2,2,0,0,2,0} you need to find the first occurence of the 2 and last occurence of the 2 present inside the array then print the index of the first and last occurences of the array.
