@@ -1,4 +1,2 @@
 // HOMEWORK QUESTIONS
-// 1. Create a class for mobile phone and create some functions inside it and try to access it using objects.
-// 2. WAP to show function overloading.
-// 3. Create a class named as forest and create some functions according to your wish and add a constructor function to initialise private, public, protected values and also to call the functions and you can pass any parameters to those functions. you should not call any functions inside int main().
+// 1. Create a class of your choice and use 2 parametrised constructors one should be declared outside the class and one should be declared inside the class and also declare 2 functions one should be inside the class and another should be declared outside the class using resolution opeartor.
