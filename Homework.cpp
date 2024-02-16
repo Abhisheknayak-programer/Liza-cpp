@@ -1,2 +1,2 @@
 // HOMEWORK QUESTIONS
-// 1. Create a class of your choice and use 2 parametrised constructors one should be declared outside the class and one should be declared inside the class and also declare 2 functions one should be inside the class and another should be declared outside the class using resolution opeartor.
+// 1. Create a base class then inherit a child class from the base class and write some functions inside the base class that can be accessed inside the child class then assume child class as a base class and again inherit one more child class and use the functions, private, protected, public values inside that class and display output.
