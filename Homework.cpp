@@ -1,2 +1,6 @@
 // HOMEWORK QUESTIONS
-// 1. Create a base class then inherit a child class from the base class and write some functions inside the base class that can be accessed inside the child class then assume child class as a base class and again inherit one more child class and use the functions, private, protected, public values inside that class and display output.
+// 1. Create three classes as of your choice then make friend of each other and access the properties and display it.
+// Ex = A = B = C
+// B can access all values of A
+// C can access all values of B
+// A can access all values of C
