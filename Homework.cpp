@@ -1,6 +1,5 @@
 // HOMEWORK QUESTIONS
-// 1. Create three classes as of your choice then make friend of each other and access the properties and display it.
-// Ex = A = B = C
-// B can access all values of A
-// C can access all values of B
-// A can access all values of C
+// 1. Write friend function to 3 classes according to your choices (global function)
+// 2. Try to use any class function inside anather class using friend in c++
+// 3. Create 2 or more pointers and use delete keyword to delete the heap memory and print the values after and before deleting
+// 4. Give any three real world examples of ternary operators occurs in your daily life
