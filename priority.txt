@@ -1,7 +1,5 @@
-// OOPS [Top1]
-// Friends [Top3]
-// Pointers & Refernces [Top2]
-// STL [Top4]
-
-// New and Delete
-// Class Templates
+// OOPS [Top1] DONE
+// Friends [Top3] DONE
+// Pointers & Refernces [Top2] DONE
+// New and Delete DONE
+// STL [Top4] 
