@@ -1,10 +1,15 @@
-// Session 24 Concepts Taught
-// 1. Pointers
-// 2. Pass by Value, Pass by Reference
-// 3. Use of Pointers in Arrays
-// 4. Pointer to Pointer
+// Session 26 Concepts Taught
+// 1. STL Library
+// 2. Sorting in STL
+// 3. Searching in STL
+// 4. Reverse in STL
+// 5. Count in STL
+// 6. Accumulator in STL
+// 7. Min and Max in STL
 
 // HOMEWORK QUESTIONS
-// 1. Try to use any class function inside anather class using friend in c++
-// 2. Create a single function taking arguments as a call by value, call by reference with pointer arguments, call by reference with reference arguments and at the end print to justify the use of pointers and also show the addresses for showcasing the difference.
-// 3. Use pointer to pass a reference of array and do sum of all the numbers present inside the array
+// 1. Create a array of any length and reverse the array from the mid element to the end element.
+// 2. Write a program to use STL for counting number of odd numbers and even numbers in the array.
+// 3. Write a program to sort the array using STL.
+// 4. Write a program to find out min and max element from the array using STL/
+// 5. Write a program to find the sum of all the prime numbers present inside the array.
