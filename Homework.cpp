@@ -1,15 +1,15 @@
-// Session 26 Concepts Taught
-// 1. STL Library
-// 2. Sorting in STL
-// 3. Searching in STL
-// 4. Reverse in STL
-// 5. Count in STL
-// 6. Accumulator in STL
-// 7. Min and Max in STL
+// Session 27 Concepts Taught
+// 1. Arrays in STL
+// 2. Vectors
+// 3. List
+// 4. Stack
+// 5. Set
+// 6. Map
+// 7. Queue
 
-// HOMEWORK QUESTIONS
-// 1. Create a array of any length and reverse the array from the mid element to the end element.
-// 2. Write a program to use STL for counting number of odd numbers and even numbers in the array.
-// 3. Write a program to sort the array using STL.
-// 4. Write a program to find out min and max element from the array using STL/
-// 5. Write a program to find the sum of all the prime numbers present inside the array.
+// Homework
+// 1. Create a Stack and push some values to it and print all the value.
+// 2. Create a Map and add some key value pairs to it and then print the values.
+// 3. Create a vector fill some values and use all the methods what you have learnt.
+// 4. Create a Linked List and push some values front front and back and delete some values from the front and back
+// 5. Create a Set and push some duplicate values and print the set and print is the set is in sorted manner or not.
